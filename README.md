@@ -31,6 +31,6 @@ NOTE: The program will take some time to load on the very first run. The creatio
 
 Make sure to run these commands from the project folder in your terminal.
 
-1.\$ pip3 install -r requirements.txt
+1.\$ pip3 install -r requirements.txt. 
 2.\$ python3 app.py
 
